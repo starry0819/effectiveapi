@@ -21,4 +21,6 @@ public class User implements Serializable {
     private String name;
     /**用户密码*/
     private String password;
+    /**年龄*/
+    private Integer age;
 }
